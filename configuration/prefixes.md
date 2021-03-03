@@ -32,9 +32,9 @@ You should now see an output similar to: List of valid prefixes: `milk.`, `m!`
 **All commands need to be invoked with the `config prefixes` group.**
 {% endhint %}
 
-| name | description |
-| :---: | :---: |
-| add | Add a prefix |
-| remove | Remove a prefix |
-| list | All prefixes set |
+| Name | Description | Aliases | Cooldown | Example |
+| :---: | :---: | :--- | :--- | :--- |
+| add | Add a prefix | None | None | `milk.config prefixes add m!` |
+| remove | Remove a prefix | None | None | `milk.config prefixes remove m!` |
+| list | All prefixes set | None | None | `milk.config prefixes list` |
 

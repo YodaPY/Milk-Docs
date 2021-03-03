@@ -28,8 +28,8 @@ milk.config verification on
 **All commands need to be invoked with the `config verification` group.**
 {% endhint %}
 
-| Name | Description | Example |
-| :---: | :---: | :--- |
-| on | Enables verification | `milk.config verification on` |
-| off | Disables verification | `milk.config verification off` |
+| Name | Description | Aliases | Cooldown | Example |
+| :---: | :---: | :--- | :--- | :--- |
+| on | Enables verification | None | None | `milk.config verification on` |
+| off | Disables verification | None | None | `milk.config verification off` |
 
