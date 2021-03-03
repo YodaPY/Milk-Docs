@@ -12,3 +12,7 @@ description: >-
   * Prefixes
   * Verification
 
+{% hint style="info" %}
+**At the end of each page, you will see all commands of that category.**
+{% endhint %}
+

@@ -23,13 +23,13 @@ milk.configure prefixes list
 You should now see an output similar to: List of valid prefixes: `milk.`, `m!`
 
 {% hint style="warning" %}
-The default `milk.` prefix will be a valid prefix until you remove it manually.
+**The default `milk.` prefix will be a valid prefix until you remove it manually.**
 {% endhint %}
 
 ## Commands
 
 {% hint style="info" %}
-All commands need to be invoked with the `config prefixes` group.
+**All commands need to be invoked with the `config prefixes` group.**
 {% endhint %}
 
 | name | description |

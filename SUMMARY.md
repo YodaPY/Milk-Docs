@@ -4,3 +4,4 @@
 * [Configuration](configuration/README.md)
   * [Prefixes](configuration/prefixes.md)
   * [Verification](configuration/verification.md)
+
