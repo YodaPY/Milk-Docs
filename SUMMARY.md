@@ -6,4 +6,5 @@
   * [Verification](configuration/verification.md)
   * [Levelling](configuration/levelling/README.md)
     * [XP](configuration/levelling/xp.md)
+    * [Roles](configuration/levelling/roles.md)
 
