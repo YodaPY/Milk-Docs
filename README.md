@@ -6,8 +6,9 @@ description: >-
 
 # Milk
 
-## Table of content:
+## Table of contents:
 
 * Configuration
   * Prefixes
+  * Verification
 
