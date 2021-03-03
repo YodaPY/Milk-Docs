@@ -13,6 +13,8 @@ description: >-
   * Verification
 
 {% hint style="info" %}
-**At the end of each page, you will see all commands of that category.**
+**At the end of each page, you will see all commands in that category.**
 {% endhint %}
+
+
 
