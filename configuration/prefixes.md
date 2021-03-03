@@ -8,7 +8,7 @@ Milk also allows the use of multiple prefixes or should I say: **UNLIMITED** mul
 
 Run the following command to add the prefix `m!`.
 
-```
+```text
 milk.configure prefixes add m!
 ```
 
@@ -37,3 +37,4 @@ All commands need to be invoked with the `config prefixes` group.
 | add | Add a prefix |
 | remove | Remove a prefix |
 | list | All prefixes set |
+
