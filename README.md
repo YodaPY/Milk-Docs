@@ -8,5 +8,6 @@ description: >-
 
 ## Table of content:
 
-* Configuratio
+* Configuration
+  * Prefixes
 
