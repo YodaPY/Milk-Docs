@@ -29,7 +29,7 @@ You should now see an output similar to: List of valid prefixes: `milk.`, `m!`
 ## Commands
 
 {% hint style="info" %}
-**All commands below need to be invoked with the `config prefixes` group and require you to have the `MANAGE SERVER` permission.**
+**All commands below need to be invoked with the `config prefixes` group and require you to have the `MANAGE SERVER` permission \(except `list`\).**
 {% endhint %}
 
 | Name | Description | Aliases | Cooldown | Example |
