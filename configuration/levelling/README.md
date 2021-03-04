@@ -6,6 +6,6 @@ Levelling is a widely used feature on discord and almost a must-have in discord 
 
 * XP
 * Roles
-* Rank Card Themes
+* Rank Cards & Themes
 * Level-Up Messages
 

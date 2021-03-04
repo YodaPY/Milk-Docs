@@ -7,4 +7,5 @@
   * [Levelling](configuration/levelling/README.md)
     * [XP](configuration/levelling/xp.md)
     * [Roles](configuration/levelling/roles.md)
+    * [Rank Cards & Themes](configuration/levelling/rank-cards-and-themes.md)
 

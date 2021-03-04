@@ -1,0 +1,12 @@
+{
+    "name": "default",
+    "bg": "#262729",
+    "pieslice_bg": "#3B3C3E",
+    "pieslice": "#D3D3D4",
+    "username": "#D3D3D4",
+    "discriminator": "#3B3C3E",
+    "level_text": "#D3D3D4",
+    "level": "#7289DA",
+    "xp_text": "#D3D3D4",
+    "xp": "#D3D3D4"
+}
