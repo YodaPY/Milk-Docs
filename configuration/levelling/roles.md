@@ -20,7 +20,7 @@ You should see your role in the embed's description that Milk outputs.
 
 ### Role-Up Messages
 
-Role-Up messages are like Level-Up messages, except they are sent when you get a levelling role rather than when you level up.
+Role-Up messages are like Level-Up messages, except they are sent when you get a levelling role rather than when you level up. They are enabled by default.
 
 Milk supports a bunch of variables for Role-Up messages:
 
@@ -35,15 +35,14 @@ Milk supports a bunch of variables for Role-Up messages:
 
 ## Commands
 
-{% hint style="info" %}
-**All commands below require you to have the `MANAGE ROLES` permission \(except `list`\).**
-{% endhint %}
-
-| Name | Description | Aliases | Example |
-| :---: | :---: | :---: | :---: |
-| add | Add a levelling role | None | `milk.config levelling roles add 1000 Blue` |
-| remove | Remove a levelling role | None | `milk.config levelling roles remove Blue` |
-| list | All levelling roles set | list | `milk.config levelling roles list` |
+| Name | Description | Aliases | Example | Permission |
+| :---: | :---: | :---: | :---: | :---: |
+| add | Add a levelling role | None | `milk.config levelling roles add 1000 Blue` | `MANAGE ROLES` |
+| remove | Remove a levelling role | None | `milk.config levelling roles remove Blue` | `MANAGE ROLES` |
+| list | All levelling roles set | list | `milk.config levelling roles list` | None |
+| on | Turn on the Role-Up messages | None | `milk.config levelling roleup on` | `MANAGE MESSAGES` |
+| off | Turn off the Role-Up messages | None | `milk.config levelling roleup off` | `MANAGE MESSAGES` |
+| text | Customize the Role-Up message | None | `milk.config levelling roleup text Congrats {user} you got the {role} role!` | `MANAGE MESSAGES` |
 
 
 

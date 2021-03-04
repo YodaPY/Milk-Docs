@@ -28,8 +28,8 @@ milk.config verification on
 **All commands below require you to have the `MANAGE SERVER` permission. Additionally, Milk will require the `MANAGE ROLES.`**
 {% endhint %}
 
-| Name | Description | Aliases | Example |
-| :---: | :---: | :--- | :--- |
-| on | Enables verification | None | `milk.config verification on` |
-| off | Disables verification | None | `milk.config verification off` |
+| Name | Description | Example |
+| :---: | :---: | :---: |
+| on | Enables verification | `milk.config verification on` |
+| off | Disables verification | `milk.config verification off` |
 

@@ -28,13 +28,9 @@ You should now see an output similar to: List of valid prefixes: `milk.`, `m!`
 
 ## Commands
 
-{% hint style="info" %}
-**All commands below require you to have the `MANAGE SERVER` permission \(except `list`\).**
-{% endhint %}
-
-| Name | Description | Aliases | Example |
-| :---: | :---: | :---: | :---: |
-| add | Add a prefix | None | `milk.config prefixes add m!` |
-| remove | Remove a prefix | None | `milk.config prefixes remove m!` |
-| list | All prefixes set | None | `milk.config prefixes list` |
+| Name | Description | Aliases | Example | Permission |
+| :---: | :---: | :---: | :---: | :---: |
+| add | Add a prefix | None | `milk.config prefixes add m!` | `MANAGE SERVER` |
+| remove | Remove a prefix | None | `milk.config prefixes remove m!` | `MANAGE SERVER` |
+| list | All prefixes set | all | `milk.config prefixes list` | None |
 
