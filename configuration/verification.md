@@ -25,11 +25,11 @@ milk.config verification on
 ## **Commands**
 
 {% hint style="info" %}
-**All commands below need to be invoked with the `config verification` group and require you to have the `MANAGE SERVER` permission. Additionally, Milk will require the `MANAGE ROLES.`**
+**All commands below require you to have the `MANAGE SERVER` permission. Additionally, Milk will require the `MANAGE ROLES.`**
 {% endhint %}
 
-| Name | Description | Aliases | Cooldown | Example |
-| :---: | :---: | :--- | :--- | :--- |
-| on | Enables verification | None | None | `milk.config verification on` |
-| off | Disables verification | None | None | `milk.config verification off` |
+| Name | Description | Aliases | Example |
+| :---: | :---: | :--- | :--- |
+| on | Enables verification | None | `milk.config verification on` |
+| off | Disables verification | None | `milk.config verification off` |
 

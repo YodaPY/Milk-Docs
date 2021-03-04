@@ -25,15 +25,15 @@ I would strongly recommend taking a look at `milk.config levelling xp info` to s
 ## Commands
 
 {% hint style="info" %}
-**All commands below need to be invoked with the`config levelling xp` group and require you to have the `MANAGE SERVER` permission \(except `info`\).**
+**All commands below require you to have the `MANAGE SERVER` permission \(except `info`\).**
 {% endhint %}
 
-| Name | Description | Aliases | Cooldown | Example |
-| :---: | :---: | :---: | :---: | :---: |
-| add | Add Server XP to a member  | None | None | `milk.config levelling xp add 500 Yoda#0660` |
-| set | Set a custom XP rate | None | None | `milk.config levelling xp set 100` |
-| reset | Reset the XP rate to the default | None | None | `milk.config levelling xp reset` |
-| info | XP needed to level up for 100 levels | information, list | None | `milk.config levelling xp info` |
+| Name | Description | Aliases | Example |
+| :---: | :---: | :---: | :---: |
+| add | Add Server XP to a member  | None | `milk.config levelling xp add 500 Yoda#0660` |
+| set | Set a custom XP rate | None | `milk.config levelling xp set 100` |
+| reset | Reset the XP rate to the default | None | `milk.config levelling xp reset` |
+| info | XP needed to level up for 100 levels | information, list | `milk.config levelling xp info` |
 
 
 

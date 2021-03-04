@@ -91,3 +91,62 @@ The `xp` key decides about the color of your XP in the rank card.
 {% endtab %}
 {% endtabs %}
 
+## Commands
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Name</th>
+      <th style="text-align:center">Description</th>
+      <th style="text-align:center">Aliases</th>
+      <th style="text-align:center">Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">set</td>
+      <td style="text-align:center">Set a theme to use in <code>milk.rank</code>
+      </td>
+      <td style="text-align:center">None</td>
+      <td style="text-align:center"><code>milk.config levelling theme set dark</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">add</td>
+      <td style="text-align:center">Add your own custom theme</td>
+      <td style="text-align:center">None</td>
+      <td style="text-align:center"><code>milk.config levelling theme add &lt;file&gt;</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">example</td>
+      <td style="text-align:center">Sends the example file above</td>
+      <td style="text-align:center">None</td>
+      <td style="text-align:center"><code>milk.config levelling theme example</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">rank</td>
+      <td style="text-align:center">Your rank card</td>
+      <td style="text-align:center">None</td>
+      <td style="text-align:center">
+        <p><code>milk.rank server</code>
+        </p>
+        <p><code>milk.rank global Yoda#0660</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">leaderboard</td>
+      <td style="text-align:center">The leaderboard</td>
+      <td style="text-align:center">lb</td>
+      <td style="text-align:center">
+        <p><code>milk.levelling leaderboard server</code>
+        </p>
+        <p><code>milk.levelling leaderboard global embed</code>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+

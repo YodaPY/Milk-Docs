@@ -18,17 +18,32 @@ milk.config levelling roles list
 
 You should see your role in the embed's description that Milk outputs.
 
-## Command
+### Role-Up Messages
+
+Role-Up messages are like Level-Up messages, except they are sent when you get a levelling role rather than when you level up.
+
+Milk supports a bunch of variables for Role-Up messages:
+
+| Variable | Description |
+| :---: | :---: |
+| {role} | The name of the achieved levelling role |
+| {role\_id} | The ID of the achieved levelling role |
+| {user} | The username of the user who role-up'd |
+| {user\_id} | The ID of the user who role-up'd |
+| {guild} | The name of the guild the role-up happened in |
+| {guild\_id} | The ID of the guild the role-up happened in |
+
+## Commands
 
 {% hint style="info" %}
-**All commands below need to be invoked with the `config levelling roles` and require you to have the `MANAGE ROLES` permission \(except `list`\).**
+**All commands below require you to have the `MANAGE ROLES` permission \(except `list`\).**
 {% endhint %}
 
-| Name | Description | Aliases | Cooldown | Example |
-| :--- | :--- | :--- | :--- | :--- |
-| add | Add a levelling role | None | None | `milk.config levelling roles add 1000 Blue` |
-| remove | Remove a levelling role | None | None | `milk.config levelling roles remove Blue` |
-| list | All levelling roles set | list | None | `milk.config levelling roles list` |
+| Name | Description | Aliases | Example |
+| :---: | :---: | :---: | :---: |
+| add | Add a levelling role | None | `milk.config levelling roles add 1000 Blue` |
+| remove | Remove a levelling role | None | `milk.config levelling roles remove Blue` |
+| list | All levelling roles set | list | `milk.config levelling roles list` |
 
 
 
